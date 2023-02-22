@@ -7,6 +7,7 @@ public class testTwo {
 
 		System.out.println("this is fun");
 		System.out.println("this is for pull practice");
+		System.out.println("GIT is easy");
 	}
 
 }
