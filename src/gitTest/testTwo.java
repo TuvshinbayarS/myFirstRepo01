@@ -6,6 +6,7 @@ public class testTwo {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is fun");
+		System.out.println("this is for pull practice");
 	}
 
 }
